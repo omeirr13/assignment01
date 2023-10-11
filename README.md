@@ -5,6 +5,7 @@
   <br>
 </h1>
 
+<h4>Assignment 01</h4>
 <h4 align="center">A PacMan clone written in C++ and Qt.</h4>
 
 <p align="center">
